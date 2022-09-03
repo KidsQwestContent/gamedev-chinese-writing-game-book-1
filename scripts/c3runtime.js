@@ -3952,6 +3952,11 @@ self.C3_JsPropNameTable = [
 	{marker7: 0},
 	{marker8: 0},
 	{cursor: 0},
+	{marker9: 0},
+	{marker10: 0},
+	{marker11: 0},
+	{marker12: 0},
+	{marker13: 0},
 	{markers: 0},
 	{inks: 0},
 	{target: 0},
@@ -3967,7 +3972,12 @@ self.C3_JsPropNameTable = [
 	{draw5: 0},
 	{draw6: 0},
 	{draw7: 0},
-	{draw8: 0}
+	{draw8: 0},
+	{draw9: 0},
+	{draw10: 0},
+	{draw11: 0},
+	{draw12: 0},
+	{draw13: 0}
 ];
 }
 
